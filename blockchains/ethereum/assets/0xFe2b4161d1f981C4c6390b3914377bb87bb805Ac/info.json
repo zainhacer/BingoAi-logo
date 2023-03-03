@@ -1,0 +1,26 @@
+{
+    "name": "BNB Smart Chain",
+    "website": "https://www.bingoai.tech/",
+    "description": "This porject is created for next level ai technology in blockchian.",
+    "explorer": "https://etherscan.io/token/0xfe2b4161d1f981c4c6390b3914377bb87bb805ac",
+    "research": "https://research.binance.com/en/projects/bnb",
+    "symbol": "BingoAi",
+    "type": "token",
+    "decimals": 3,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BingoAiTools"
+        },
+        
+        {
+            "name": "whitepaper",
+            "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+        }
+    ]
+}
